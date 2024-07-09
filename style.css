@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+i{
+    display: flex;
+    padding-left: 44%;
+    font-size: 250px;
+    padding-top: 10%;
+    color: lightskyblue;
+}
+h1,p{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
